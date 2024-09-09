@@ -20,4 +20,5 @@ There are no strict restrictions on adding other sites to the list. Feel free to
 - [Modern Pantheism](http://www.pantheism.ie/)
 - [Charvaka Ashram](http://www.charvaka.ie/)
 - [Pataphysical Institute](http://www.pataphysicalinstitute.eu/)
+- [The Clare W. Graves Website](https://www.clarewgraves.com/)
 
