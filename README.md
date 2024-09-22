@@ -46,3 +46,11 @@ There are no strict restrictions on adding other sites to the list. Feel free to
 - [TravelASSIST Magazine](http://travelassist.com/mag/mag_home.html)
 - [INSTANET](https://www.instanet.com/)
 - [Raindrop Laboratories](http://www.rdrop.com/)
+- [DrgnSlyr's Star Trek: The Ultimate Links Page.](https://drgnslyr.tripod.com/startrek/startrek.htm)
+- [Physics 3220, Fall 1997](https://physicscourses.colorado.edu/phys3220/3220_fa97/3220_fa97.html)
+- [The Lurker's Guide to Babylon 5](http://www.midwinter.com/lurk/)
+- [SeanConnery.com](https://seanconnery.com/)
+- [Coming Soon](https://www.csoon.com/)
+- [theoldnet.com](http://theoldnet.com/)
+- [textfiles.com](http://www.textfiles.com/)
+
