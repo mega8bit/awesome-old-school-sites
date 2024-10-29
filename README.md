@@ -53,4 +53,5 @@ There are no strict restrictions on adding other sites to the list. Feel free to
 - [Coming Soon](https://www.csoon.com/)
 - [theoldnet.com](http://theoldnet.com/)
 - [textfiles.com](http://www.textfiles.com/)
+- [B3ta](https://b3ta.com/)
 
